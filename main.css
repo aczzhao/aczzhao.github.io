@@ -1,0 +1,106 @@
+.container {
+	padding-right: 20%;
+	padding-left: 20%;
+	text-decoration: none;
+}
+
+#hello {
+	font-size: 2.5em;
+	margin-top: 4.1rem;
+	text-align: center;
+	margin-bottom: 0;
+	line-height: 2.5rem;
+	font-family: Nexa Bold;
+	color: #1c1d1e;
+}
+
+#blurb {
+	text-align: center;
+	font-size: 1.4rem;
+	margin-top: .6rem;
+	color: #82919a;
+	font-family: Courier New;
+}
+
+.email {
+	color: #f97070ff;
+	font-family: Courier New;
+}
+
+.greetting {
+	position: relative;
+	width: 100%;
+  	min-height: 1px;
+  	padding-right: 15px;
+  	padding-left: 15px;
+  	margin-top: 10rem;
+
+}
+
+#point {
+	width: 15%;
+	height: 10%;
+	margin-right: 20%;
+	margin-bottom: 4%;
+}
+
+.main-nav{
+	text-decoration: none;
+  	background-color: transparent;
+	list-style-type: none;
+	color: #1c1d1e;
+	font-family: Courier New;
+	margin:auto;
+
+}
+
+
+.link {
+	text-decoration: none;
+	font-size: 1.5rem;
+	margin-top: -10px;
+	margin-left: -.2rem;
+	color: #1c1d1e; 
+}
+
+.link:hover {
+	color: #f97070ff; 
+}
+.link:active {
+	color: #f97070ff; 
+}
+
+.centerdiv {
+	margin-left:36%;
+}
+
+.point2 {
+	width: 2%;
+	height: 10%;
+	margin-top: 1rem;
+	margin-bottom: -0.15rem;
+	margin-right: -.4rem;
+
+}
+
+a {
+	text-decoration: none;
+}
+
+.eng_link {
+	color: #9477cb;
+}
+
+.eng_link:hover {
+	color: #82919a; 
+}
+
+
+
+
+
+
+
+
+
+
